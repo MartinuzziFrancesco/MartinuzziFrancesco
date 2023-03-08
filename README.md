@@ -1,7 +1,7 @@
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red?style=flat-square)](https://scholar.google.com/citations?user=5zVK6KIAAAAJ&hl=en)
-[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen?style=flat-square)](https://www.researchgate.net/profile/Francesco-Martinuzzi)
-[![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green?style=flat-square)](https://orcid.org/0000-0003-3249-3703)
-[![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/francesco-martinuzzi-259a16215/)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=5zVK6KIAAAAJ&hl=en)
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen)](https://www.researchgate.net/profile/Francesco-Martinuzzi)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green)](https://orcid.org/0000-0003-3249-3703)
+[![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/francesco-martinuzzi-259a16215/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/MartinuzziFra?style=social)](https://twitter.com/MartinuzziFra)
 
 ### Hello there!
