@@ -6,8 +6,7 @@
 
 ### Hello there!
 
-I am Francesco Martinuzzi, a PhD student in Physics and Earth Sciences at Leipzig University in Germany.
-I am under the supervision of Prof. [**Miguel D. Mahecha**](https://www.uni-leipzig.de/en/profile/mitarbeiter/prof-dr-miguel-mahecha) and Dr. [**Karin Mora**](https://aperiodik.is/) at the Remote Sensing Centre for Earth System Research [**RSC4Earth**](https://rsc4earth.de/). My research is kindly funded by the Center for Scalable Data Analytics and Artificial Intelligence [**ScaDS.AI**](https://scads.ai/). I am also a member of the [**ELLIS Society**](https://ellis.eu/projects/modeling-impacts-of-extreme-events-using-reservoir-computing), and as part of its exchange program I spent six months as a visiting researcher at the Universitat de València working with Prof. [**Gustau Camps-Valls**](https://www.uv.es/gcamps/). 
+I am currently pursuing a PhD in Physics and Earth Sciences at Leipzig University, Germany, and Valencia, Spain, as a member of the [**ELLIS PhD program**](https://ellis.eu/projects/modeling-impacts-of-extreme-events-using-reservoir-computing). My research focuses on the application of machine learning in Earth systems. I am part of the team at the Remote Sensing Center for Earth System Research (RSC4Earth), working under the supervision of Prof. [**Miguel D. Mahecha**](https://www.uni-leipzig.de/en/profile/mitarbeiter/prof-dr-miguel-mahecha) and Dr. [**Karin Mora**](https://aperiodik.is/). In addition, I have an affiliation with the Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI).
     
 I enjoy coding in Julia, on my profile you can find some of the repositories I work/collaborate on. For anything machine learning/dynamical system related don't hesitate to get in thouch with me!
 
