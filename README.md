@@ -10,4 +10,4 @@ I am currently pursuing a PhD in Physics and Earth Sciences at Leipzig Universit
     
 I enjoy coding in Julia, on my profile you can find some of the repositories I work/collaborate on. For anything machine learning/dynamical system related don't hesitate to get in thouch with me!
 
-![](https://github-readme-stats.vercel.app/api?username=MartinuzziFrancesco&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=noctis_minimus)
+![](https://github-readme-stats.vercel.app/api?username=MartinuzziFrancesco&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=gruvbox)
