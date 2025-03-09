@@ -13,7 +13,7 @@
 
 I am currently pursuing a PhD in Physics and Earth Sciences at the Institute for Earth System Science and Remote Sensing in Leipzig University, Germany, and Valencia, Spain, as a member of the [**ELLIS PhD program**](https://ellis.eu/projects/modeling-impacts-of-extreme-events-using-reservoir-computing). I am currently focusing on the application of machine learning in Earth systems under the supervision of Prof. [**Miguel D. Mahecha**](https://www.uni-leipzig.de/en/profile/mitarbeiter/prof-dr-miguel-mahecha) and Dr. [**Karin Mora**](https://aperiodik.is/). My research is kindly funded by the Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI).
     
-I love writing software and providing open source implementations of reserach papers. My contributions rank from fully fledged libraries to one-off implementations. I am the creator and main developer of the following packages:
+I love writing software and providing open source implementations of research papers. My contributions rank from fully fledged libraries to one-off implementations. I am the creator and main developer of the following packages:
  - [ReservoirComputing.jl](https://github.com/SciML/ReservoirComputing.jl)
  - [RecurrentLayers.jl](https://github.com/MartinuzziFrancesco/RecurrentLayers.jl)
  - [LuxRecurrentLayers.jl](https://github.com/MartinuzziFrancesco/LuxRecurrentLayers.jl)
