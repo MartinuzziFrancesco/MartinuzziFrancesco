@@ -11,7 +11,7 @@
 
 ### Hello there!
 
-I am a researcher at the Max Planck Institute for Physics of Complex Systems in Dresden. My research will look into how deep learning models can model chaotic dynamics.
+I am a researcher at the Max Planck Institute for Physics of Complex Systems in Dresden. My research interest are applications of machine learning to chaotic dynamics, reservoir computing and recurrent neural networks.
     
 I love writing software and providing open source implementations of research papers. My contributions rank from fully fledged libraries to one-off implementations. I am the creator and main developer of the following packages:
  - [ReservoirComputing.jl](https://github.com/SciML/ReservoirComputing.jl)
