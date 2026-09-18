@@ -20,6 +20,7 @@ I love writing software and providing open source implementations of research pa
  - [LuxRecurrentLayers.jl](https://github.com/MartinuzziFrancesco/LuxRecurrentLayers.jl)
  - [SpectralIndices.jl](https://github.com/awesome-spectral-indices/SpectralIndices.jl)
  - [CellularAutomata.jl](https://github.com/MartinuzziFrancesco/CellularAutomata.jl)
+ - [FluctuationAnalysis.jl](https://github.com/MartinuzziFrancesco/FluctuationAnalysis.jl)
 
 Additional non registered implementations include deep learning (Flux.jl) models like [NBeats](https://github.com/MartinuzziFrancesco/NeuralBasisExpansions.jl).
 
