@@ -11,7 +11,7 @@
 
 ### Hello there!
 
-I am a quantitative researcher at Capital Fund Management in Dresden.
+I am a quantitative researcher at Capital Fund Management in Paris.
     
 I love writing software and providing open source implementations of research papers. My contributions rank from fully fledged libraries to one-off implementations. I am the creator and main developer of the following packages:
  - [ReservoirComputing.jl](https://github.com/SciML/ReservoirComputing.jl)
